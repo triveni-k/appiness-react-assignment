@@ -1,0 +1,11 @@
+.login-grid {
+  height: 100vh;   
+}
+
+.login-grid-column {
+  max-width: 500px !important;
+}
+
+.error-message {
+  color: red;
+}

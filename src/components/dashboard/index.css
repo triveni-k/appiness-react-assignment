@@ -1,0 +1,10 @@
+.table-grid {
+  height: 100vh;
+  margin-top: 3rem !important;
+}
+
+.dashboard-table {
+   position: absolute;
+   top: 16%;
+}
+
